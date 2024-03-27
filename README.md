@@ -16,7 +16,7 @@ The repository constains three Javascript files alongside this read me named, gr
 
 ### Student Grade Calculator ###
 
-To test the student grade calculator Javascript code, after you fork and clone it into your own local environment then use **code .** to open it in your VScode. The next step is to open the terminal and run the code using, **node grade.js**, The terminal with then propmy you for an input. Input a grade and check if the code is working.
+To test the student grade calculator Javascript code, after you fork and clone it into your own local environment then use **code .** to open it in your VScode. The next step is to open the terminal and run the code using, **node grade.js**, The terminal with then propmt you for an input. Input a grade and check if the code is working.
 
 ### Speed Detector ###
 
